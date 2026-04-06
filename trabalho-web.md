@@ -12,7 +12,7 @@ Por isso, é importante entender como essas três coisas funcionam juntas.
 
 O planejamento é uma das etapas mais importantes de um projeto. 
 Ele serve para definir objetivos, prazos e recursos. 
-Segundo o conceito de SDLC, o planejamento ajuda a reduzir riscos e organizar melhor o desenvolvimento :contentReference[oaicite:0]{index=0}. 
+Segundo o conceito de SDLC, o planejamento ajuda a reduzir riscos e organizar melhor o desenvolvimento
 Também permite que todos os envolvidos entendam o que precisa ser feito. 
 
 Quando não existe planejamento, pode acontecer o *scope creep*. 
@@ -30,12 +30,12 @@ A metodologia define como o projeto será desenvolvido.
 Existem dois modelos principais: Cascata e Ágil. 
 
 O modelo Cascata é mais tradicional. 
-Ele segue uma ordem fixa, onde cada etapa precisa terminar antes da próxima começar :contentReference[oaicite:1]{index=1}. 
+Ele segue uma ordem fixa, onde cada etapa precisa terminar antes da próxima começar
 Isso funciona bem quando o projeto já está bem definido. 
 
 Por outro lado, o modelo Ágil é mais flexível. 
 Ele trabalha com pequenas entregas e mudanças constantes. 
-Isso permite adaptar o sistema conforme o feedback do cliente :contentReference[oaicite:2]{index=2}. 
+Isso permite adaptar o sistema conforme o feedback do cliente
 
 Hoje em dia, o Ágil é muito usado. 
 Isso porque os projetos mudam bastante ao longo do tempo. 
@@ -45,7 +45,7 @@ Mas o Cascata ainda é útil em projetos mais simples e previsíveis.
 
 O ciclo de vida do software (SDLC) organiza o desenvolvimento em etapas. 
 Essas etapas ajudam a manter tudo organizado. 
-Entre elas estão planejamento, desenvolvimento, testes e manutenção :contentReference[oaicite:3]{index=3}. 
+Entre elas estão planejamento, desenvolvimento, testes e manutenção
 
 Cada fase tem sua importância. 
 O planejamento define o que será feito. 
