@@ -22,7 +22,16 @@ Isso aumenta o tempo e o custo do projeto.
 
 Por exemplo, em um app de delivery, o cliente pode querer adicionar chat, promoções e rastreamento. 
 Sem planejamento, isso vira bagunça. 
-A equipe perde tempo e pode até atrasar a entrega. 
+A equipe perde tempo e pode até atrasar a entrega.
+## Exemplos do Valor do Planejamento
+
+- **App de delivery:** definir funcionalidades antes evita mudanças constantes e atrasos no projeto.  
+- **Site institucional:** planejar estrutura e layout evita retrabalho e melhora a organização.  
+- **Sistema escolar:** mapear módulos (alunos, notas, presença) garante um sistema completo.  
+- **Trabalho em equipe:** dividir tarefas e prazos evita conflitos e desorganização.  
+- **Startup:** focar em um MVP economiza tempo e permite melhorias contínuas.
+
+**Resumo:** o planejamento evita desperdícios, controla o escopo e melhora a qualidade da entrega.
 
 ## Metodologias: Ágil vs Cascata
 
