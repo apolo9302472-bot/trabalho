@@ -48,7 +48,12 @@ Isso permite adaptar o sistema conforme o feedback do cliente
 
 Hoje em dia, o Ágil é muito usado. 
 Isso porque os projetos mudam bastante ao longo do tempo. 
-Mas o Cascata ainda é útil em projetos mais simples e previsíveis. 
+Mas o Cascata ainda é útil em projetos mais simples e previsíveis.
+**Exemplo:**
+- Um sistema bancário pode usar Cascata pela estabilidade dos requisitos.
+- Um app de startup pode usar Ágil pela necessidade de adaptação rápida.
+
+**Resumo:** Cascata foca em previsibilidade, enquanto Ágil foca em adaptação e entrega contínua de valor.
 
 ## O ciclo de vida do projeto
 
