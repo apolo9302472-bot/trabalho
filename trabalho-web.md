@@ -127,7 +127,7 @@ Isso evita desperdício de tempo e recursos em ideias inviáveis.
 
 ### Modelo Cascata (Waterfall)
 
-O modelo Cascata é uma metodologia tradicional de desenvolvimento. Ele funciona de forma sequencial, ou seja, uma etapa só começa quando a anterior termina. :contentReference[oaicite:0]{index=0}  
+O modelo Cascata é uma metodologia tradicional de desenvolvimento. Ele funciona de forma sequencial, ou seja, uma etapa só começa quando a anterior termina. 
 
 Esse modelo é mais indicado para projetos com requisitos bem definidos, pois mudanças durante o processo são difíceis de aplicar. Apesar de organizado, pode ser rígido em cenários modernos, onde as necessidades mudam rapidamente.
 
@@ -135,7 +135,7 @@ Esse modelo é mais indicado para projetos com requisitos bem definidos, pois mu
 
 ### Manifesto Ágil
 
-O Manifesto Ágil surgiu como resposta às limitações do modelo Cascata. Ele propõe uma abordagem mais flexível, baseada em adaptação, colaboração e entregas contínuas. :contentReference[oaicite:1]{index=1}  
+O Manifesto Ágil surgiu como resposta às limitações do modelo Cascata. Ele propõe uma abordagem mais flexível, baseada em adaptação, colaboração e entregas contínuas.  
 
 A ideia principal é não depender de um planejamento totalmente rígido, mas sim evoluir o projeto com base no feedback do cliente e nas mudanças ao longo do desenvolvimento.
 
@@ -143,7 +143,7 @@ A ideia principal é não depender de um planejamento totalmente rígido, mas si
 
 ### Framework Scrum
 
-O Scrum é um dos frameworks ágeis mais utilizados atualmente. Ele organiza o trabalho em ciclos curtos chamados Sprints, que geralmente duram de 1 a 4 semanas. :contentReference[oaicite:2]{index=2}  
+O Scrum é um dos frameworks ágeis mais utilizados atualmente. Ele organiza o trabalho em ciclos curtos chamados Sprints, que geralmente duram de 1 a 4 semanas. 
 
 Dentro do Scrum, existem papéis importantes:
 - Product Owner (define prioridades)
@@ -161,7 +161,7 @@ Isso permite entregas rápidas e melhoria contínua.
 
 ### Método Kanban
 
-O Kanban é uma metodologia focada na visualização do trabalho. Ele utiliza quadros com colunas como “A fazer”, “Fazendo” e “Concluído”, permitindo acompanhar o progresso das tarefas. :contentReference[oaicite:3]{index=3}  
+O Kanban é uma metodologia focada na visualização do trabalho. Ele utiliza quadros com colunas como “A fazer”, “Fazendo” e “Concluído”, permitindo acompanhar o progresso das tarefas.   
 
 Um dos conceitos principais é o WIP (Work In Progress), que limita a quantidade de tarefas em andamento. Isso evita sobrecarga e ajuda a identificar gargalos no processo.
 
@@ -181,7 +181,7 @@ O SDLC (Software Development Life Cycle) organiza o desenvolvimento em etapas be
 - Implantação
 - Manutenção
 
-Esse ciclo ajuda a manter o projeto organizado e melhora a qualidade do sistema final. :contentReference[oaicite:4]{index=4}  
+Esse ciclo ajuda a manter o projeto organizado e melhora a qualidade do sistema final. 
 
 ---
 
