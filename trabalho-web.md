@@ -84,7 +84,7 @@ Um depende do outro para funcionar bem.
 Este guia de pesquisa apresenta os principais conceitos relacionados à gestão de projetos de software, organizados de forma didática em três módulos: pensamento estratégico, execução e prática. Essa divisão facilita o entendimento progressivo do conteúdo, começando pelo “porquê”, passando pelo “como” e chegando ao uso prático no dia a dia de desenvolvimento.
 
 ---
-### PLANEJAMENTO E GESTÃO DE PROJETOS
+# PLANEJAMENTO E GESTÃO DE PROJETOS
 ## Módulo 1: O Pensamento Estratégico (O Porquê)
 
 O primeiro módulo tem como objetivo desenvolver a base teórica necessária antes de iniciar qualquer projeto. Aqui, o foco não está em programar, mas sim em entender o contexto e a estrutura do projeto.
