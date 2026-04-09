@@ -78,7 +78,58 @@ Mas se não for bem estruturado, será difícil adicionar novas funções depois
 
 No final, planejamento, metodologia e ciclo de vida trabalham juntos. 
 Eles não são partes separadas. 
-Um depende do outro para funcionar bem. 
+Um depende do outro para funcionar bem.
+## Guia de Pesquisa: Planejamento e Gestão de Projetos
+
+Este guia de pesquisa apresenta os principais conceitos relacionados à gestão de projetos de software, organizados de forma didática em três módulos: pensamento estratégico, execução e prática. Essa divisão facilita o entendimento progressivo do conteúdo, começando pelo “porquê”, passando pelo “como” e chegando ao uso prático no dia a dia de desenvolvimento.
+
+---
+### PLANEJAMENTO E GESTÃO DE PROJETOS
+## Módulo 1: O Pensamento Estratégico (O Porquê)
+
+O primeiro módulo tem como objetivo desenvolver a base teórica necessária antes de iniciar qualquer projeto. Aqui, o foco não está em programar, mas sim em entender o contexto e a estrutura do projeto.
+
+Um dos primeiros conceitos abordados é a diferença entre projeto e processo. Enquanto processos são contínuos e repetitivos, projetos possuem início, meio e fim definidos. Dentro desse contexto, o escopo se torna um elemento essencial, pois define exatamente o que será feito no projeto. Um escopo bem definido evita problemas como o crescimento descontrolado das funcionalidades, conhecido como *scope creep*, que pode comprometer prazos e custos.
+
+Outro ponto importante são os objetivos SMART. Esse modelo ajuda a criar metas mais claras e eficientes, garantindo que sejam específicas, mensuráveis, atingíveis, relevantes e com prazo definido. Isso facilita o acompanhamento do progresso do projeto e evita metas vagas.
+
+Além disso, a análise de viabilidade permite avaliar se o projeto realmente pode ser executado. Essa análise considera fatores técnicos (se é possível desenvolver), econômicos (se vale o custo) e operacionais (se pode ser aplicado na prática). Dessa forma, evita-se investir tempo e recursos em ideias inviáveis.
+
+---
+
+## Módulo 2: O Caminho da Execução (O Como)
+
+O segundo módulo aborda como os projetos são executados na prática, destacando as principais metodologias utilizadas no desenvolvimento de software.
+
+O modelo Cascata (Waterfall) é apresentado como uma abordagem tradicional. Ele segue uma sequência rígida de etapas, onde cada fase precisa ser concluída antes da próxima começar. Esse modelo funciona melhor em projetos com requisitos bem definidos, porém pode ser problemático em cenários onde mudanças são frequentes.
+
+Em contrapartida, o Manifesto Ágil surge como uma alternativa mais flexível. Ele valoriza a colaboração entre equipes, a adaptação às mudanças e a entrega contínua de valor ao cliente. Em vez de seguir um plano fixo, o desenvolvimento ágil permite ajustes ao longo do processo.
+
+Dentro desse contexto, o Scrum é um dos frameworks mais utilizados. Ele organiza o trabalho em ciclos curtos chamados Sprints, permitindo entregas frequentes. Além disso, define papéis importantes, como Product Owner, Scrum Master e equipe de desenvolvimento, e inclui reuniões que ajudam a manter o alinhamento do time.
+
+Outro método importante é o Kanban, que foca na gestão visual do trabalho. Utilizando quadros com colunas como “A fazer”, “Fazendo” e “Concluído”, o Kanban permite acompanhar o progresso das tarefas e identificar gargalos. O conceito de WIP (Work In Progress) também ajuda a evitar sobrecarga, limitando a quantidade de tarefas em andamento.
+
+---
+
+## Módulo 3: O Ciclo de Vida e Ferramentas (A Prática)
+
+O terceiro módulo traz a aplicação prática dos conceitos, mostrando como o desenvolvimento de software acontece de forma estruturada e quais ferramentas são utilizadas.
+
+O ciclo de vida do desenvolvimento de software (SDLC) organiza o projeto em etapas bem definidas, como levantamento de requisitos, design, implementação, testes, implantação e manutenção. Essa estrutura ajuda a garantir que todas as fases sejam cumpridas com qualidade, reduzindo erros e facilitando futuras melhorias.
+
+A engenharia de requisitos é uma etapa essencial dentro desse processo. Ela consiste em identificar e documentar o que o sistema deve fazer. Os requisitos funcionais descrevem as funcionalidades do sistema, enquanto os não-funcionais tratam de aspectos como desempenho, segurança e usabilidade. Uma boa definição de requisitos evita retrabalho e falhas no sistema.
+
+Além disso, o uso de ferramentas de gestão e prototipagem é fundamental para aumentar a produtividade. Plataformas como Trello e Jira ajudam na organização das tarefas, enquanto ferramentas como Figma e Adobe XD permitem criar protótipos visuais antes da implementação, facilitando a validação com o cliente.
+
+Por fim, o versionamento de código com Git e GitHub é indispensável no desenvolvimento moderno. Essas ferramentas permitem que múltiplos desenvolvedores trabalhem no mesmo projeto sem conflitos, além de manter um histórico das alterações realizadas. Conceitos como commit, push, pull e branch são fundamentais para o trabalho em equipe.
+
+---
+
+## Considerações Finais
+
+De forma geral, o guia oferece uma visão completa da gestão de projetos de software, integrando planejamento, execução e prática. Ele mostra que o sucesso de um sistema não depende apenas da programação, mas de uma boa organização, definição de objetivos e uso adequado de metodologias e ferramentas.
+
+Com esse conhecimento, o aluno se torna mais preparado para desenvolver projetos de forma estruturada, evitando erros comuns e aumentando as chances de sucesso na entrega de software de qualidade.
 
 O planejamento organiza o projeto. 
 A metodologia define como ele será executado. 
